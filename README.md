@@ -6,18 +6,18 @@
 
 从各平台热榜里发现选题，拆出不同角度，写成文章、做成图文和视频，再送进每个账号的草稿箱。
 
-[![最新版本](https://img.shields.io/github/v/release/icesword0760/CharInfinity?label=%E6%9C%80%E6%96%B0%E7%89%88%E6%9C%AC&color=252525)](../../releases/latest)
-[![平台](https://img.shields.io/badge/macOS%20%7C%20Windows-%E6%A1%8C%E9%9D%A2%E7%AB%AF-777777)](../../releases/latest)
-
-<a href="https://charinfinity.baize-ailabs.com/"><img src="https://img.shields.io/badge/官网-charinfinity.baize--ailabs.com-252525?style=for-the-badge" alt="CharInfinity 官网" height="32"></a>
+[![最新版本](https://img.shields.io/github/v/release/icesword0760/CharInfinity?label=%E6%9C%80%E6%96%B0%E7%89%88%E6%9C%AC&color=2F80ED)](../../releases/latest)
+[![macOS | Windows](https://img.shields.io/badge/macOS%20%7C%20Windows-%E6%A1%8C%E9%9D%A2%E7%AB%AF-2E9E5B)](../../releases/latest)
+[![加入内测 永久免费](https://img.shields.io/badge/%E5%8A%A0%E5%85%A5%E5%86%85%E6%B5%8B-%E6%B0%B8%E4%B9%85%E5%85%8D%E8%B4%B9-E8590C)](#开始使用)
+[![官网](https://img.shields.io/badge/%E5%AE%98%E7%BD%91-charinfinity.baize--ailabs.com-6F42C1)](https://charinfinity.baize-ailabs.com/)
 
 [下载安装包](../../releases/latest) · [开始使用](#开始使用) · [常见问题](#常见问题)
 
 <br>
 
-<img src="assets/hero.webp" alt="CharInfinity 创作中心：同一选题下的公众号、小红书、知乎三份平台稿，右侧是排好版、配好图的公众号长文预览" width="860">
+<img src="assets/hero.webp" alt="一个选题从热榜到草稿箱：发现选题、拆出角度、写底稿、排版、改配图、做视频、送进草稿箱，最后汇总 AI 做完的活" width="860">
 
-<sub>创作中心：同一个选题下的三份平台稿，右侧是排好版、配好图的公众号长文预览</sub>
+<sub>一个选题从热榜到草稿箱的全过程（20 秒）。活是 AI 做的，决定是你做的。</sub>
 
 </div>
 
