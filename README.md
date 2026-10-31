@@ -102,8 +102,8 @@
 
 | 系统 | 安装包 | 说明 |
 |---|---|---|
-| macOS（Apple 芯片，macOS 13 及以上） | `charinfinity-0.1.10-mac-arm64.dmg` | 已签名并通过 Apple 公证，双击打开拖进「应用程序」即可 |
-| Windows 10 / 11（x64） | `charinfinity-0.1.10-win-x64-unsigned-local.exe` | 没有代码签名。SmartScreen 提示「Windows 已保护你的电脑」时，点「更多信息」→「仍要运行」 |
+| macOS（Apple 芯片，macOS 13 及以上） | `charinfinity-0.1.11-mac-arm64.dmg` | 已签名并通过 Apple 公证，双击打开拖进「应用程序」即可 |
+| Windows 10 / 11（x64） | `charinfinity-0.1.11-win-x64-unsigned-local.exe` | 没有代码签名。SmartScreen 提示「Windows 已保护你的电脑」时，点「更多信息」→「仍要运行」 |
 | macOS（Intel 芯片） | — | 暂未提供 |
 
 - 安装包约 0.5 GB，因为里面带好了平台浏览器、运行环境和音视频处理工具，你不用另外安装浏览器、Node、Python 或剪辑软件。
