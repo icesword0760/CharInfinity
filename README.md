@@ -106,7 +106,7 @@
 | Windows 10 / 11（x64） | `charinfinity-0.1.11-win-x64-unsigned-local.exe` | 没有代码签名。SmartScreen 提示「Windows 已保护你的电脑」时，点「更多信息」→「仍要运行」 |
 | macOS（Intel 芯片） | — | 暂未提供 |
 
-- 安装包约 0.5 GB，因为里面带好了平台浏览器、运行环境和音视频处理工具，你不用另外安装浏览器、Node、Python 或剪辑软件。
+- 安装包约 0.6–0.8 GB，因为里面带好了平台浏览器、运行环境和音视频处理工具，你不用另外安装浏览器、Node、Python 或剪辑软件。
 - 下载后可以用 Release 里的 `SHA256SUMS.txt` 核对文件是否完整：macOS 运行 `shasum -a 256 文件名`，Windows 运行 `certutil -hashfile 文件名 SHA256`。
 - 应用内可以检查更新，有新版本时会主动提醒。
 
