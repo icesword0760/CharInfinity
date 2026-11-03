@@ -2,16 +2,16 @@
 
 # ∞ CharInfinity
 
-**为一个人运营多个内容账号而做的 AI 内容工作台**
+**AI 自媒体工作台：为一个人运营多个内容账号而做**
 
-从各平台热榜里发现选题，拆出不同角度，写成文章、做成图文和视频，再送进每个账号的草稿箱。
+从各平台热榜里发现选题，拆出不同角度，写成公众号、小红书、知乎的平台稿，做成图文和视频，再送进每个账号的草稿箱。
 
 [![最新版本](https://img.shields.io/github/v/release/icesword0760/CharInfinity?label=%E6%9C%80%E6%96%B0%E7%89%88%E6%9C%AC&color=2F80ED)](../../releases/latest)
 [![macOS | Windows](https://img.shields.io/badge/macOS%20%7C%20Windows-%E6%A1%8C%E9%9D%A2%E7%AB%AF-2E9E5B)](../../releases/latest)
 [![加入内测 永久免费](https://img.shields.io/badge/%E5%8A%A0%E5%85%A5%E5%86%85%E6%B5%8B-%E6%B0%B8%E4%B9%85%E5%85%8D%E8%B4%B9-E8590C)](#开始使用)
 [![官网](https://img.shields.io/badge/%E5%AE%98%E7%BD%91-charinfinity.baize--ailabs.com-6F42C1)](https://charinfinity.baize-ailabs.com/)
 
-[下载安装包](../../releases/latest) · [开始使用](#开始使用) · [常见问题](#常见问题)
+[下载安装包](../../releases/latest) · [B 站视频介绍](https://www.bilibili.com/video/BV1Qeso6kEjH/) · [开始使用](#开始使用) · [常见问题](#常见问题)
 
 <br>
 
@@ -114,7 +114,7 @@
 
 **适合**
 
-- 一个人运营两个以上的账号
+- 一个人运营两个以上的自媒体账号（账号矩阵）
 - 同时做图文和视频
 - 想把选题、写作、排版和发布准备放在一个地方
 
